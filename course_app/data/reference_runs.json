@@ -1,0 +1,245 @@
+{
+ "recorded_at": "2026-11-08 08:01",
+ "tracker_model": "openai/gpt-6-luna",
+ "state_run": {
+  "harness": "state",
+  "steps": [
+   {
+    "t": 0,
+    "event": "e1",
+    "action": "WAIT",
+    "attempts": 1,
+    "fell_back": false,
+    "state": {
+     "tracking_id": "1Z999AA10123456784",
+     "carrier": "UPS",
+     "notice_due": false,
+     "location": {
+      "hub": "Louisville",
+      "at": "Nov 11 06:40"
+     },
+     "status": "departed",
+     "exception": "EXC-204",
+     "cause": "missed linehaul connection"
+    },
+    "reasoning": "The scan records the shipment departing Louisville on Nov 11 at 06:40, and reports exception EXC-204 for a missed linehaul connection. This is not a dispatch request, so the action is WAIT."
+   },
+   {
+    "t": 1,
+    "event": "e2",
+    "action": "WAIT",
+    "attempts": 1,
+    "fell_back": false,
+    "state": {
+     "tracking_id": "1Z999AA10123456784",
+     "carrier": "UPS",
+     "notice_due": false,
+     "location": {
+      "hub": "Louisville",
+      "at": "Nov 11 06:40"
+     },
+     "status": "departed",
+     "exception": "EXC-204",
+     "cause": "missed linehaul connection",
+     "eta": {
+      "date": "Nov 12",
+      "confirmed": false
+     }
+    },
+    "reasoning": "1. The carrier estimates arrival on Nov 12, so update the ETA as unconfirmed.\n2. This is not a dispatch request, so the action is WAIT."
+   },
+   {
+    "t": 2,
+    "event": "e3",
+    "action": "WAIT",
+    "attempts": 1,
+    "fell_back": false,
+    "state": {
+     "tracking_id": "1Z999AA10123456784",
+     "carrier": "UPS",
+     "notice_due": false,
+     "location": {
+      "hub": "Louisville",
+      "at": "Nov 11 06:40"
+     },
+     "status": "departed",
+     "exception": "EXC-204",
+     "cause": "missed linehaul connection",
+     "eta": {
+      "date": "Nov 12",
+      "confirmed": false
+     },
+     "address": "1420 Maple St, Apt 4B, Columbus OH"
+    },
+    "reasoning": "The recipient corrected the delivery address to 1420 Maple St, Apt 4B, Columbus OH, so update the address. This is not a dispatch request, so the action is WAIT."
+   },
+   {
+    "t": 3,
+    "event": "e4",
+    "action": "WAIT",
+    "attempts": 1,
+    "fell_back": false,
+    "state": {
+     "tracking_id": "1Z999AA10123456784",
+     "carrier": "UPS",
+     "notice_due": false,
+     "location": {
+      "hub": "Chicago",
+      "at": "Nov 11 15:10"
+     },
+     "status": "arrived",
+     "exception": "EXC-204",
+     "cause": "missed linehaul connection",
+     "eta": {
+      "date": "Nov 12",
+      "confirmed": false
+     },
+     "address": "1420 Maple St, Apt 4B, Columbus OH"
+    },
+    "reasoning": "The shipment arrived at the Chicago hub on Nov 11 at 15:10, replacing its prior location. This is not a dispatch request, so the action is WAIT."
+   },
+   {
+    "t": 4,
+    "event": "e5",
+    "action": "WAIT",
+    "attempts": 1,
+    "fell_back": false,
+    "state": {
+     "tracking_id": "1Z999AA10123456784",
+     "carrier": "UPS",
+     "notice_due": false,
+     "location": {
+      "hub": "Indianapolis",
+      "at": "Nov 11 14:52"
+     },
+     "status": "arrived",
+     "exception": "EXC-204",
+     "cause": "missed linehaul connection",
+     "eta": {
+      "date": "Nov 12",
+      "confirmed": false
+     },
+     "address": "1420 Maple St, Apt 4B, Columbus OH"
+    },
+    "reasoning": "The UPS correction replaces the mis-posted Chicago scan with Indianapolis at Nov 11 14:52. This is not a dispatch request, so the action is WAIT."
+   },
+   {
+    "t": 5,
+    "event": "e6",
+    "action": "WAIT",
+    "attempts": 1,
+    "fell_back": false,
+    "state": {
+     "tracking_id": "1Z999AA10123456784",
+     "carrier": "UPS",
+     "notice_due": false,
+     "location": {
+      "hub": "Indianapolis",
+      "at": "Nov 11 14:52"
+     },
+     "status": "arrived",
+     "exception": "EXC-204",
+     "cause": "missed linehaul connection",
+     "eta": {
+      "date": "Nov 13",
+      "confirmed": true
+     },
+     "address": "1420 Maple St, Apt 4B, Columbus OH",
+     "reroute": {
+      "to": "UPS Access Point #118"
+     }
+    },
+    "reasoning": "The carrier confirmed delivery for Nov 13, replacing the prior estimate. The redirect to UPS Access Point #118 is in force; this is not a dispatch request, so the action is WAIT."
+   },
+   {
+    "t": 6,
+    "event": "e7",
+    "action": "WAIT",
+    "attempts": 1,
+    "fell_back": false,
+    "state": {
+     "tracking_id": "1Z999AA10123456784",
+     "carrier": "UPS",
+     "notice_due": false,
+     "location": {
+      "hub": "Indianapolis",
+      "at": "Nov 11 14:52"
+     },
+     "status": "arrived",
+     "exception": "EXC-204",
+     "cause": "missed linehaul connection",
+     "eta": {
+      "date": "Nov 14",
+      "confirmed": true
+     },
+     "address": "1420 Maple St, Apt 4B, Columbus OH"
+    },
+    "reasoning": "1. UPS confirmed the delivery date is Nov 14, replacing the earlier ETA.  \n2. The Access Point redirect was cancelled, so clear the reroute; this is not a dispatch request, so the action is WAIT."
+   },
+   {
+    "t": 7,
+    "event": "e8",
+    "action": "SEND",
+    "attempts": 1,
+    "fell_back": false,
+    "state": {
+     "tracking_id": "1Z999AA10123456784",
+     "carrier": "UPS",
+     "notice_due": true,
+     "location": {
+      "hub": "Indianapolis",
+      "at": "Nov 11 14:52"
+     },
+     "status": "arrived",
+     "exception": "EXC-204",
+     "cause": "missed linehaul connection",
+     "eta": {
+      "date": "Nov 14",
+      "confirmed": true
+     },
+     "address": "1420 Maple St, Apt 4B, Columbus OH"
+    },
+    "reasoning": "The latest observation is a dispatch request for the delivery notice. Set `notice_due` to true and send it."
+   }
+  ],
+  "final_state": {
+   "tracking_id": "1Z999AA10123456784",
+   "carrier": "UPS",
+   "notice_due": true,
+   "location": {
+    "hub": "Indianapolis",
+    "at": "Nov 11 14:52"
+   },
+   "status": "arrived",
+   "exception": "EXC-204",
+   "cause": "missed linehaul connection",
+   "eta": {
+    "date": "Nov 14",
+    "confirmed": true
+   },
+   "address": "1420 Maple St, Apt 4B, Columbus OH"
+  },
+  "rejected_patches": 0,
+  "rejections": [],
+  "prompt_chars": [
+   2434,
+   2490,
+   2581,
+   2561,
+   2634,
+   2617,
+   2689,
+   2578
+  ],
+  "usage": {
+   "calls": 8,
+   "prompt_tokens": 5099,
+   "completion_tokens": 1356,
+   "cost_usd": 0.0011879
+  },
+  "surface_digest": "115e0df4f10d",
+  "wrote_at": [
+   "e8"
+  ]
+ }
+}

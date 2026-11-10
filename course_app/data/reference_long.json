@@ -1,0 +1,2580 @@
+{
+ "recorded_at": "2026-11-08 08:07",
+ "tracker_model": "openai/gpt-6-luna",
+ "horizon": 60,
+ "runs": {
+  "transcript": {
+   "harness": "transcript",
+   "steps": [
+    {
+     "t": 0,
+     "event": "e1",
+     "action": "WAIT",
+     "history_lines": 1
+    },
+    {
+     "t": 1,
+     "event": "q0",
+     "action": "WAIT",
+     "history_lines": 2
+    },
+    {
+     "t": 2,
+     "event": "q1",
+     "action": "WAIT",
+     "history_lines": 3
+    },
+    {
+     "t": 3,
+     "event": "q2",
+     "action": "WAIT",
+     "history_lines": 4
+    },
+    {
+     "t": 4,
+     "event": "q3",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 5,
+     "event": "q4",
+     "action": "WAIT",
+     "history_lines": 6
+    },
+    {
+     "t": 6,
+     "event": "q5",
+     "action": "WAIT",
+     "history_lines": 7
+    },
+    {
+     "t": 7,
+     "event": "q6",
+     "action": "WAIT",
+     "history_lines": 8
+    },
+    {
+     "t": 8,
+     "event": "q7",
+     "action": "WAIT",
+     "history_lines": 9
+    },
+    {
+     "t": 9,
+     "event": "e2",
+     "action": "WAIT",
+     "history_lines": 10
+    },
+    {
+     "t": 10,
+     "event": "q8",
+     "action": "WAIT",
+     "history_lines": 11
+    },
+    {
+     "t": 11,
+     "event": "q9",
+     "action": "WAIT",
+     "history_lines": 12
+    },
+    {
+     "t": 12,
+     "event": "q10",
+     "action": "WAIT",
+     "history_lines": 13
+    },
+    {
+     "t": 13,
+     "event": "q11",
+     "action": "WAIT",
+     "history_lines": 14
+    },
+    {
+     "t": 14,
+     "event": "q12",
+     "action": "WAIT",
+     "history_lines": 15
+    },
+    {
+     "t": 15,
+     "event": "q13",
+     "action": "WAIT",
+     "history_lines": 16
+    },
+    {
+     "t": 16,
+     "event": "q14",
+     "action": "WAIT",
+     "history_lines": 17
+    },
+    {
+     "t": 17,
+     "event": "q15",
+     "action": "WAIT",
+     "history_lines": 18
+    },
+    {
+     "t": 18,
+     "event": "e3",
+     "action": "WAIT",
+     "history_lines": 19
+    },
+    {
+     "t": 19,
+     "event": "q16",
+     "action": "WAIT",
+     "history_lines": 20
+    },
+    {
+     "t": 20,
+     "event": "q17",
+     "action": "WAIT",
+     "history_lines": 21
+    },
+    {
+     "t": 21,
+     "event": "q18",
+     "action": "WAIT",
+     "history_lines": 22
+    },
+    {
+     "t": 22,
+     "event": "q19",
+     "action": "WAIT",
+     "history_lines": 23
+    },
+    {
+     "t": 23,
+     "event": "q20",
+     "action": "WAIT",
+     "history_lines": 24
+    },
+    {
+     "t": 24,
+     "event": "q21",
+     "action": "WAIT",
+     "history_lines": 25
+    },
+    {
+     "t": 25,
+     "event": "q22",
+     "action": "WAIT",
+     "history_lines": 26
+    },
+    {
+     "t": 26,
+     "event": "q23",
+     "action": "WAIT",
+     "history_lines": 27
+    },
+    {
+     "t": 27,
+     "event": "e4",
+     "action": "WAIT",
+     "history_lines": 28
+    },
+    {
+     "t": 28,
+     "event": "q24",
+     "action": "WAIT",
+     "history_lines": 29
+    },
+    {
+     "t": 29,
+     "event": "q25",
+     "action": "WAIT",
+     "history_lines": 30
+    },
+    {
+     "t": 30,
+     "event": "q26",
+     "action": "WAIT",
+     "history_lines": 31
+    },
+    {
+     "t": 31,
+     "event": "q27",
+     "action": "WAIT",
+     "history_lines": 32
+    },
+    {
+     "t": 32,
+     "event": "q28",
+     "action": "WAIT",
+     "history_lines": 33
+    },
+    {
+     "t": 33,
+     "event": "q29",
+     "action": "WAIT",
+     "history_lines": 34
+    },
+    {
+     "t": 34,
+     "event": "q30",
+     "action": "WAIT",
+     "history_lines": 35
+    },
+    {
+     "t": 35,
+     "event": "e5",
+     "action": "WAIT",
+     "history_lines": 36
+    },
+    {
+     "t": 36,
+     "event": "q31",
+     "action": "WAIT",
+     "history_lines": 37
+    },
+    {
+     "t": 37,
+     "event": "q32",
+     "action": "WAIT",
+     "history_lines": 38
+    },
+    {
+     "t": 38,
+     "event": "q33",
+     "action": "WAIT",
+     "history_lines": 39
+    },
+    {
+     "t": 39,
+     "event": "q34",
+     "action": "WAIT",
+     "history_lines": 40
+    },
+    {
+     "t": 40,
+     "event": "q35",
+     "action": "WAIT",
+     "history_lines": 41
+    },
+    {
+     "t": 41,
+     "event": "q36",
+     "action": "WAIT",
+     "history_lines": 42
+    },
+    {
+     "t": 42,
+     "event": "q37",
+     "action": "WAIT",
+     "history_lines": 43
+    },
+    {
+     "t": 43,
+     "event": "e6",
+     "action": "WAIT",
+     "history_lines": 44
+    },
+    {
+     "t": 44,
+     "event": "q38",
+     "action": "WAIT",
+     "history_lines": 45
+    },
+    {
+     "t": 45,
+     "event": "q39",
+     "action": "WAIT",
+     "history_lines": 46
+    },
+    {
+     "t": 46,
+     "event": "q40",
+     "action": "WAIT",
+     "history_lines": 47
+    },
+    {
+     "t": 47,
+     "event": "q41",
+     "action": "WAIT",
+     "history_lines": 48
+    },
+    {
+     "t": 48,
+     "event": "q42",
+     "action": "WAIT",
+     "history_lines": 49
+    },
+    {
+     "t": 49,
+     "event": "q43",
+     "action": "WAIT",
+     "history_lines": 50
+    },
+    {
+     "t": 50,
+     "event": "q44",
+     "action": "WAIT",
+     "history_lines": 51
+    },
+    {
+     "t": 51,
+     "event": "e7",
+     "action": "WAIT",
+     "history_lines": 52
+    },
+    {
+     "t": 52,
+     "event": "q45",
+     "action": "WAIT",
+     "history_lines": 53
+    },
+    {
+     "t": 53,
+     "event": "q46",
+     "action": "WAIT",
+     "history_lines": 54
+    },
+    {
+     "t": 54,
+     "event": "q47",
+     "action": "WAIT",
+     "history_lines": 55
+    },
+    {
+     "t": 55,
+     "event": "q48",
+     "action": "WAIT",
+     "history_lines": 56
+    },
+    {
+     "t": 56,
+     "event": "q49",
+     "action": "WAIT",
+     "history_lines": 57
+    },
+    {
+     "t": 57,
+     "event": "q50",
+     "action": "WAIT",
+     "history_lines": 58
+    },
+    {
+     "t": 58,
+     "event": "q51",
+     "action": "WAIT",
+     "history_lines": 59
+    },
+    {
+     "t": 59,
+     "event": "e8",
+     "action": "SEND",
+     "history_lines": 60
+    }
+   ],
+   "prompt_chars": [
+    1099,
+    1409,
+    1744,
+    2056,
+    2375,
+    2669,
+    2974,
+    3295,
+    3604,
+    3949,
+    4241,
+    4541,
+    4846,
+    5164,
+    5500,
+    5813,
+    6133,
+    6428,
+    6789,
+    7111,
+    7421,
+    7743,
+    8036,
+    8336,
+    8641,
+    8959,
+    9295,
+    9619,
+    9939,
+    10234,
+    10540,
+    10862,
+    11172,
+    11494,
+    11787,
+    12168,
+    12473,
+    12791,
+    13127,
+    13440,
+    13760,
+    14055,
+    14361,
+    14767,
+    15077,
+    15399,
+    15692,
+    15992,
+    16297,
+    16615,
+    16951,
+    17369,
+    17689,
+    17984,
+    18290,
+    18612,
+    18922,
+    19244,
+    19537,
+    19856
+   ],
+   "usage": {
+    "calls": 60,
+    "prompt_tokens": 197052,
+    "completion_tokens": 3190,
+    "cost_usd": 0.026093725
+   },
+   "wrote_at": [
+    "e8"
+   ],
+   "history": [
+    "[0] Scan: parcel 1Z999AA10123456784 (UPS) departed Louisville KY hub Nov 11 06:40, after the scheduled linehaul. Exception EXC-204 missed linehaul connection.\n--- BACKGROUND TELEMETRY ---\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n-> Action: WAIT",
+    "[1] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n-> Action: WAIT",
+    "[2] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n-> Action: WAIT",
+    "[3] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n-> Action: WAIT",
+    "[4] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n-> Action: WAIT",
+    "[5] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n-> Action: WAIT",
+    "[6] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n-> Action: WAIT",
+    "[7] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n-> Action: WAIT",
+    "[8] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n-> Action: WAIT",
+    "[9] Carrier estimate: arrival Nov 12. Status: estimate, not confirmed.\n--- BACKGROUND TELEMETRY ---\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n-> Action: WAIT",
+    "[10] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n-> Action: WAIT",
+    "[11] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n-> Action: WAIT",
+    "[12] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n-> Action: WAIT",
+    "[13] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n-> Action: WAIT",
+    "[14] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n-> Action: WAIT",
+    "[15] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n-> Action: WAIT",
+    "[16] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n-> Action: WAIT",
+    "[17] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n-> Action: WAIT",
+    "[18] Recipient request: delivery address corrected to 1420 Maple St, Apt 4B, Columbus OH (was Apt 2B).\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n-> Action: WAIT",
+    "[19] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n-> Action: WAIT",
+    "[20] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n-> Action: WAIT",
+    "[21] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n-> Action: WAIT",
+    "[22] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n-> Action: WAIT",
+    "[23] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n-> Action: WAIT",
+    "[24] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n-> Action: WAIT",
+    "[25] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n-> Action: WAIT",
+    "[26] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n-> Action: WAIT",
+    "[27] Scan: parcel arrived at Chicago IL hub, Nov 11 15:10.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n-> Action: WAIT",
+    "[28] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n-> Action: WAIT",
+    "[29] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n-> Action: WAIT",
+    "[30] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n-> Action: WAIT",
+    "[31] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n-> Action: WAIT",
+    "[32] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n-> Action: WAIT",
+    "[33] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n-> Action: WAIT",
+    "[34] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n-> Action: WAIT",
+    "[35] Correction from UPS: the 15:10 Chicago scan was mis-posted. The parcel is at the Indianapolis IN hub; arrived Nov 11 14:52.\n--- BACKGROUND TELEMETRY ---\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n-> Action: WAIT",
+    "[36] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n-> Action: WAIT",
+    "[37] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n-> Action: WAIT",
+    "[38] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n-> Action: WAIT",
+    "[39] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n-> Action: WAIT",
+    "[40] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n-> Action: WAIT",
+    "[41] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n-> Action: WAIT",
+    "[42] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n-> Action: WAIT",
+    "[43] UPS confirmation: delivery Nov 13, confirmed. Recipient asked for redirect to UPS Access Point #118; redirect is now in force.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n-> Action: WAIT",
+    "[44] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n-> Action: WAIT",
+    "[45] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n-> Action: WAIT",
+    "[46] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n-> Action: WAIT",
+    "[47] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n-> Action: WAIT",
+    "[48] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n-> Action: WAIT",
+    "[49] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n-> Action: WAIT",
+    "[50] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n-> Action: WAIT",
+    "[51] Correction from UPS: confirmed delivery date is Nov 14, not Nov 13. The Access Point redirect was cancelled by the recipient; home delivery stands.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n-> Action: WAIT",
+    "[52] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n-> Action: WAIT",
+    "[53] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n-> Action: WAIT",
+    "[54] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n-> Action: WAIT",
+    "[55] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n-> Action: WAIT",
+    "[56] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n-> Action: WAIT",
+    "[57] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n-> Action: WAIT",
+    "[58] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n-> Action: WAIT",
+    "[59] Dispatch request: send the recipient the delivery notice now.\n--- BACKGROUND TELEMETRY ---\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n-> Action: SEND"
+   ],
+   "budget_chars": null,
+   "writer_input_tokens": 4808,
+   "facts": 4,
+   "traps": 5
+  },
+  "window": {
+   "harness": "window",
+   "steps": [
+    {
+     "t": 0,
+     "event": "e1",
+     "action": "WAIT",
+     "history_lines": 0
+    },
+    {
+     "t": 1,
+     "event": "q0",
+     "action": "WAIT",
+     "history_lines": 1
+    },
+    {
+     "t": 2,
+     "event": "q1",
+     "action": "WAIT",
+     "history_lines": 2
+    },
+    {
+     "t": 3,
+     "event": "q2",
+     "action": "WAIT",
+     "history_lines": 3
+    },
+    {
+     "t": 4,
+     "event": "q3",
+     "action": "WAIT",
+     "history_lines": 4
+    },
+    {
+     "t": 5,
+     "event": "q4",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 6,
+     "event": "q5",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 7,
+     "event": "q6",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 8,
+     "event": "q7",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 9,
+     "event": "e2",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 10,
+     "event": "q8",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 11,
+     "event": "q9",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 12,
+     "event": "q10",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 13,
+     "event": "q11",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 14,
+     "event": "q12",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 15,
+     "event": "q13",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 16,
+     "event": "q14",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 17,
+     "event": "q15",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 18,
+     "event": "e3",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 19,
+     "event": "q16",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 20,
+     "event": "q17",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 21,
+     "event": "q18",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 22,
+     "event": "q19",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 23,
+     "event": "q20",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 24,
+     "event": "q21",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 25,
+     "event": "q22",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 26,
+     "event": "q23",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 27,
+     "event": "e4",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 28,
+     "event": "q24",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 29,
+     "event": "q25",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 30,
+     "event": "q26",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 31,
+     "event": "q27",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 32,
+     "event": "q28",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 33,
+     "event": "q29",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 34,
+     "event": "q30",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 35,
+     "event": "e5",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 36,
+     "event": "q31",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 37,
+     "event": "q32",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 38,
+     "event": "q33",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 39,
+     "event": "q34",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 40,
+     "event": "q35",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 41,
+     "event": "q36",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 42,
+     "event": "q37",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 43,
+     "event": "e6",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 44,
+     "event": "q38",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 45,
+     "event": "q39",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 46,
+     "event": "q40",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 47,
+     "event": "q41",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 48,
+     "event": "q42",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 49,
+     "event": "q43",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 50,
+     "event": "q44",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 51,
+     "event": "e7",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 52,
+     "event": "q45",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 53,
+     "event": "q46",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 54,
+     "event": "q47",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 55,
+     "event": "q48",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 56,
+     "event": "q49",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 57,
+     "event": "q50",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 58,
+     "event": "q51",
+     "action": "WAIT",
+     "history_lines": 5
+    },
+    {
+     "t": 59,
+     "event": "e8",
+     "action": "SEND",
+     "history_lines": 5
+    }
+   ],
+   "prompt_chars": [
+    1099,
+    1409,
+    1744,
+    2056,
+    2375,
+    2669,
+    2558,
+    2562,
+    2536,
+    2569,
+    2542,
+    2548,
+    2548,
+    2545,
+    2572,
+    2540,
+    2567,
+    2562,
+    2618,
+    2622,
+    2596,
+    2605,
+    2578,
+    2583,
+    2527,
+    2523,
+    2549,
+    2551,
+    2578,
+    2573,
+    2574,
+    2578,
+    2552,
+    2550,
+    2523,
+    2609,
+    2608,
+    2604,
+    2630,
+    2621,
+    2648,
+    2562,
+    2563,
+    2651,
+    2625,
+    2634,
+    2607,
+    2612,
+    2611,
+    2523,
+    2549,
+    2645,
+    2672,
+    2667,
+    2668,
+    2672,
+    2646,
+    2550,
+    2523,
+    2547
+   ],
+   "usage": {
+    "calls": 60,
+    "prompt_tokens": 44608,
+    "completion_tokens": 2946,
+    "cost_usd": 0.0059338
+   },
+   "wrote_at": [
+    "e8"
+   ],
+   "history": [
+    "[0] Scan: parcel 1Z999AA10123456784 (UPS) departed Louisville KY hub Nov 11 06:40, after the scheduled linehaul. Exception EXC-204 missed linehaul connection.\n--- BACKGROUND TELEMETRY ---\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n-> Action: WAIT",
+    "[1] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n-> Action: WAIT",
+    "[2] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n-> Action: WAIT",
+    "[3] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n-> Action: WAIT",
+    "[4] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n-> Action: WAIT",
+    "[5] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n-> Action: WAIT",
+    "[6] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n-> Action: WAIT",
+    "[7] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n-> Action: WAIT",
+    "[8] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n-> Action: WAIT",
+    "[9] Carrier estimate: arrival Nov 12. Status: estimate, not confirmed.\n--- BACKGROUND TELEMETRY ---\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n-> Action: WAIT",
+    "[10] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n-> Action: WAIT",
+    "[11] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n-> Action: WAIT",
+    "[12] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n-> Action: WAIT",
+    "[13] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n-> Action: WAIT",
+    "[14] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n-> Action: WAIT",
+    "[15] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n-> Action: WAIT",
+    "[16] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n-> Action: WAIT",
+    "[17] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n-> Action: WAIT",
+    "[18] Recipient request: delivery address corrected to 1420 Maple St, Apt 4B, Columbus OH (was Apt 2B).\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n-> Action: WAIT",
+    "[19] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n-> Action: WAIT",
+    "[20] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n-> Action: WAIT",
+    "[21] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n-> Action: WAIT",
+    "[22] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n-> Action: WAIT",
+    "[23] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n-> Action: WAIT",
+    "[24] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n-> Action: WAIT",
+    "[25] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n-> Action: WAIT",
+    "[26] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n-> Action: WAIT",
+    "[27] Scan: parcel arrived at Chicago IL hub, Nov 11 15:10.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n-> Action: WAIT",
+    "[28] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n-> Action: WAIT",
+    "[29] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n-> Action: WAIT",
+    "[30] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n-> Action: WAIT",
+    "[31] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n-> Action: WAIT",
+    "[32] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n-> Action: WAIT",
+    "[33] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n-> Action: WAIT",
+    "[34] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n-> Action: WAIT",
+    "[35] Correction from UPS: the 15:10 Chicago scan was mis-posted. The parcel is at the Indianapolis IN hub; arrived Nov 11 14:52.\n--- BACKGROUND TELEMETRY ---\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n-> Action: WAIT",
+    "[36] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n-> Action: WAIT",
+    "[37] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n-> Action: WAIT",
+    "[38] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n-> Action: WAIT",
+    "[39] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n-> Action: WAIT",
+    "[40] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n-> Action: WAIT",
+    "[41] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n-> Action: WAIT",
+    "[42] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n-> Action: WAIT",
+    "[43] UPS confirmation: delivery Nov 13, confirmed. Recipient asked for redirect to UPS Access Point #118; redirect is now in force.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n-> Action: WAIT",
+    "[44] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n-> Action: WAIT",
+    "[45] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n-> Action: WAIT",
+    "[46] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n-> Action: WAIT",
+    "[47] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n-> Action: WAIT",
+    "[48] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n-> Action: WAIT",
+    "[49] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n-> Action: WAIT",
+    "[50] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n-> Action: WAIT",
+    "[51] Correction from UPS: confirmed delivery date is Nov 14, not Nov 13. The Access Point redirect was cancelled by the recipient; home delivery stands.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n-> Action: WAIT",
+    "[52] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n-> Action: WAIT",
+    "[53] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n-> Action: WAIT",
+    "[54] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n-> Action: WAIT",
+    "[55] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n[Scan] parcel 1Z999AA10123456791 arrived Chicago IL hub\n[Chat] 'anyone seen the printer paper?'\n-> Action: WAIT",
+    "[56] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n[Scan] parcel 1Z999AA10123456815 departed Louisville KY hub\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n-> Action: WAIT",
+    "[57] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n[Scan] parcel 1Z999AA10123456828 held for address check, Cincinnati OH\n[Hub] sorter 3 throughput 4,120/h, belt temp 88F, jam count 0\n-> Action: WAIT",
+    "[58] No new scan for parcel 1Z999AA10123456784.\n--- BACKGROUND TELEMETRY ---\n[Chat] 'anyone seen the printer paper?'\n[Scan] parcel 1Z999AA10123456802 delivered, Dayton OH\n[Hub] dock 7 occupied, trailer KY-4411, dwell 00:42\n[CI] exceptions-dashboard build #4821 passed in 6m12s\n-> Action: WAIT",
+    "[59] Dispatch request: send the recipient the delivery notice now.\n--- BACKGROUND TELEMETRY ---\n[Weather] Indianapolis 43F, light rain, wind 9 mph\n[Sensor] humidity 45%, temp 72F, light 310 lux, CO2 450 ppm\n[Camera OCR] forklift parked, bay 2 clear\n[Hub] inbound ETA board refreshed, 14 trailers listed\n-> Action: SEND"
+   ],
+   "budget_chars": 1840,
+   "writer_input_tokens": 404,
+   "facts": 3,
+   "traps": 1
+  },
+  "state": {
+   "harness": "state",
+   "steps": [
+    {
+     "t": 0,
+     "event": "e1",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection"
+     },
+     "reasoning": "The parcel departed the Louisville hub on Nov 11 at 06:40. The carrier reported exception EXC-204, \u201cmissed linehaul connection\u201d; this is not a dispatch request, so the action is WAIT."
+    },
+    {
+     "t": 1,
+     "event": "q0",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection"
+     },
+     "reasoning": "No new scan was reported for this parcel, and the other telemetry is unrelated. No state changes are needed; the action is WAIT."
+    },
+    {
+     "t": 2,
+     "event": "q1",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection"
+     },
+     "reasoning": "1. The latest observation reports no new scan for this parcel; background telemetry is unrelated.\n2. No state changes are needed, and the action is WAIT."
+    },
+    {
+     "t": 3,
+     "event": "q2",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection"
+     },
+     "reasoning": "No new scan was reported for this parcel. The state remains unchanged, so the action is WAIT."
+    },
+    {
+     "t": 4,
+     "event": "q3",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection"
+     },
+     "reasoning": "No new scan was reported for this shipment; the other parcel\u2019s scan and hub telemetry are irrelevant. No state changes are needed, and the action is WAIT."
+    },
+    {
+     "t": 5,
+     "event": "q4",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection"
+     },
+     "reasoning": "The latest observation reports no new scan for this parcel, and the other telemetry is unrelated. No state changes are needed, so the action is WAIT."
+    },
+    {
+     "t": 6,
+     "event": "q5",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection"
+     },
+     "reasoning": "No new scan was reported for the tracked parcel. The background telemetry concerns other items and does not change the shipment state."
+    },
+    {
+     "t": 7,
+     "event": "q6",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection"
+     },
+     "reasoning": "No new scan was reported for this parcel, and the other telemetry is unrelated. No state changes are needed; the action is WAIT."
+    },
+    {
+     "t": 8,
+     "event": "q7",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection"
+     },
+     "reasoning": "No new scan was reported for this parcel, and the background telemetry is not an observation for it. No state changes; action is WAIT."
+    },
+    {
+     "t": 9,
+     "event": "e2",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      }
+     },
+     "reasoning": "The estimate gives an arrival date of Nov 12 but is not confirmed, so update the ETA with `confirmed: false`. This is not a dispatch request, so the action is WAIT."
+    },
+    {
+     "t": 10,
+     "event": "q8",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      }
+     },
+     "reasoning": "No new scan was reported for this parcel, and the background telemetry is irrelevant. No state changes are needed, so the action is WAIT."
+    },
+    {
+     "t": 11,
+     "event": "q9",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      }
+     },
+     "reasoning": "No new parcel scan or dispatch request was observed. The shipment state is unchanged, so the action is WAIT."
+    },
+    {
+     "t": 12,
+     "event": "q10",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      }
+     },
+     "reasoning": "No new scan was reported for this parcel, and the background telemetry concerns other items. No state changes are needed; the action is WAIT."
+    },
+    {
+     "t": 13,
+     "event": "q11",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      }
+     },
+     "reasoning": "1. The observation reports no new scan for this parcel; the other telemetry does not apply.\n2. No state changes are needed, and the action is WAIT."
+    },
+    {
+     "t": 14,
+     "event": "q12",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      }
+     },
+     "reasoning": "1. No new scan was reported for this parcel; the other telemetry is irrelevant.\n2. No state changes are needed, and the action is WAIT."
+    },
+    {
+     "t": 15,
+     "event": "q13",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      }
+     },
+     "reasoning": "No new observation applies to this parcel, so its state remains unchanged. The action is WAIT."
+    },
+    {
+     "t": 16,
+     "event": "q14",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      }
+     },
+     "reasoning": "No new scan was reported for this parcel, and the other parcel\u2019s scan and background telemetry are irrelevant. No state changes are needed; the action is WAIT."
+    },
+    {
+     "t": 17,
+     "event": "q15",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      }
+     },
+     "reasoning": "No new scan was reported for this shipment, and the background telemetry concerns other parcels or hub activity. No state changes are needed; the action is WAIT."
+    },
+    {
+     "t": 18,
+     "event": "e3",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "The recipient corrected the delivery address to Apt 4B, so update the current address. This is not a dispatch request; ignore the unrelated telemetry and WAIT."
+    },
+    {
+     "t": 19,
+     "event": "q16",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "No new scan was reported for this parcel. No state changes are needed, and the action is WAIT."
+    },
+    {
+     "t": 20,
+     "event": "q17",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "The latest observation reports no new scan for this parcel; the background telemetry is unrelated. No dispatch request was received, so the state remains unchanged and the action is WAIT."
+    },
+    {
+     "t": 21,
+     "event": "q18",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "No new scan was reported for this parcel, and the background telemetry is unrelated. No state changes are needed; the action is WAIT."
+    },
+    {
+     "t": 22,
+     "event": "q19",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "No new scan was reported for this parcel; the unrelated telemetry is ignored. No state changes are needed, and the action is WAIT."
+    },
+    {
+     "t": 23,
+     "event": "q20",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "No new scan was reported for this parcel, and the background telemetry is irrelevant. No state changes are needed; the action is WAIT."
+    },
+    {
+     "t": 24,
+     "event": "q21",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "No new scan was reported for this shipment, and the other telemetry is irrelevant. No state changes are needed; the action is WAIT."
+    },
+    {
+     "t": 25,
+     "event": "q22",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "No new scan was reported for this parcel, and the other telemetry is irrelevant. No state changes are needed; the action is WAIT."
+    },
+    {
+     "t": 26,
+     "event": "q23",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Louisville",
+       "at": "Nov 11 06:40"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "No new scan was reported for this parcel, and the background telemetry is unrelated. No state changes are needed; action is WAIT."
+    },
+    {
+     "t": 27,
+     "event": "e4",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Chicago",
+       "at": "Nov 11 15:10"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "The latest observation is a scan for this shipment, not a dispatch request. Update its location to Chicago at Nov 11 15:10; the action is WAIT."
+    },
+    {
+     "t": 28,
+     "event": "q24",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Chicago",
+       "at": "Nov 11 15:10"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "1. No new scan was reported for this parcel; the other parcel\u2019s scan and background telemetry are ignored.\n2. No shipment state changes, and the action is WAIT."
+    },
+    {
+     "t": 29,
+     "event": "q25",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Chicago",
+       "at": "Nov 11 15:10"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "1. The latest observation reports no new scan for this parcel; unrelated telemetry is ignored.\n2. No state changes are needed, and the action is WAIT."
+    },
+    {
+     "t": 30,
+     "event": "q26",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Chicago",
+       "at": "Nov 11 15:10"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "1. There is no new scan for this parcel; the other-parcel scan and background telemetry are ignored.\n2. No state changes are needed, and the action is WAIT."
+    },
+    {
+     "t": 31,
+     "event": "q27",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Chicago",
+       "at": "Nov 11 15:10"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "1. The latest observation reports no new scan for the specified parcel; the other telemetry is unrelated.\n2. No state changes are needed, so the action is WAIT."
+    },
+    {
+     "t": 32,
+     "event": "q28",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Chicago",
+       "at": "Nov 11 15:10"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "No new scan was reported for this parcel, and the background telemetry is irrelevant. No state changes are needed; action is WAIT."
+    },
+    {
+     "t": 33,
+     "event": "q29",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Chicago",
+       "at": "Nov 11 15:10"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "No new observation applies to this parcel, and the background telemetry is irrelevant. No state changes are needed; action is WAIT."
+    },
+    {
+     "t": 34,
+     "event": "q30",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Chicago",
+       "at": "Nov 11 15:10"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "No new scan was reported for this parcel, and the background telemetry is unrelated. No state changes are needed; the action is WAIT."
+    },
+    {
+     "t": 35,
+     "event": "e5",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Indianapolis",
+       "at": "Nov 11 14:52"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "1. UPS corrected the mis-posted scan; the parcel is at the Indianapolis hub as of Nov 11 14:52.\n2. This is not a dispatch request, so the action is WAIT."
+    },
+    {
+     "t": 36,
+     "event": "q31",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Indianapolis",
+       "at": "Nov 11 14:52"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "No new observation applies to this parcel, so the state remains unchanged. The action is WAIT."
+    },
+    {
+     "t": 37,
+     "event": "q32",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Indianapolis",
+       "at": "Nov 11 14:52"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "No new scan was reported for this parcel, and the other telemetry is irrelevant. No state changes are needed; the action is WAIT."
+    },
+    {
+     "t": 38,
+     "event": "q33",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Indianapolis",
+       "at": "Nov 11 14:52"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "No new scan was reported for this parcel; the telemetry concerns other parcels or hub operations. No state changes are needed, and the action is WAIT."
+    },
+    {
+     "t": 39,
+     "event": "q34",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Indianapolis",
+       "at": "Nov 11 14:52"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "No new scan was reported for this parcel, and the background telemetry is unrelated. No state changes are needed; the action is WAIT."
+    },
+    {
+     "t": 40,
+     "event": "q35",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Indianapolis",
+       "at": "Nov 11 14:52"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "No new scan was reported for this parcel, and the background telemetry is irrelevant. No state changes are needed; the action is WAIT."
+    },
+    {
+     "t": 41,
+     "event": "q36",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Indianapolis",
+       "at": "Nov 11 14:52"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "1. No new scan was reported for this parcel, and the background telemetry is unrelated.\n2. No state changes are needed; the action is WAIT."
+    },
+    {
+     "t": 42,
+     "event": "q37",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Indianapolis",
+       "at": "Nov 11 14:52"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 12",
+       "confirmed": false
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "No new scan was reported for this parcel, and the background telemetry concerns other parcels or is unrelated. No state changes are needed; the action is WAIT."
+    },
+    {
+     "t": 43,
+     "event": "e6",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Indianapolis",
+       "at": "Nov 11 14:52"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 13",
+       "confirmed": true
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH",
+      "reroute": {
+       "to": "UPS Access Point #118"
+      }
+     },
+     "reasoning": "The carrier confirmed delivery for Nov 13, replacing the earlier estimate. The redirect to UPS Access Point #118 is in force; this is not a dispatch request, so the action is WAIT."
+    },
+    {
+     "t": 44,
+     "event": "q38",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Indianapolis",
+       "at": "Nov 11 14:52"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 13",
+       "confirmed": true
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH",
+      "reroute": {
+       "to": "UPS Access Point #118"
+      }
+     },
+     "reasoning": "No new scan was reported for this parcel, and the background telemetry is unrelated. No state changes are needed; the action is WAIT."
+    },
+    {
+     "t": 45,
+     "event": "q39",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Indianapolis",
+       "at": "Nov 11 14:52"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 13",
+       "confirmed": true
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH",
+      "reroute": {
+       "to": "UPS Access Point #118"
+      }
+     },
+     "reasoning": "No new scan was reported for this parcel, and the background telemetry concerns other items or hub operations. No shipment state changes; action is WAIT."
+    },
+    {
+     "t": 46,
+     "event": "q40",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Indianapolis",
+       "at": "Nov 11 14:52"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 13",
+       "confirmed": true
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH",
+      "reroute": {
+       "to": "UPS Access Point #118"
+      }
+     },
+     "reasoning": "No new scan was reported for this parcel, and the background telemetry is unrelated. No state changes are needed; the action is WAIT."
+    },
+    {
+     "t": 47,
+     "event": "q41",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Indianapolis",
+       "at": "Nov 11 14:52"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 13",
+       "confirmed": true
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH",
+      "reroute": {
+       "to": "UPS Access Point #118"
+      }
+     },
+     "reasoning": "1. No new scan was reported for this parcel, and the background telemetry does not change its state.\n2. This is not a dispatch request, so the action is WAIT."
+    },
+    {
+     "t": 48,
+     "event": "q42",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Indianapolis",
+       "at": "Nov 11 14:52"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 13",
+       "confirmed": true
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH",
+      "reroute": {
+       "to": "UPS Access Point #118"
+      }
+     },
+     "reasoning": "No new scan was reported for this shipment, and the unrelated telemetry is ignored. No state changes are needed; the action is WAIT."
+    },
+    {
+     "t": 49,
+     "event": "q43",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Indianapolis",
+       "at": "Nov 11 14:52"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 13",
+       "confirmed": true
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH",
+      "reroute": {
+       "to": "UPS Access Point #118"
+      }
+     },
+     "reasoning": "1. There is no new scan or dispatch request for this parcel, so the shipment state remains unchanged.\n2. The required action is WAIT."
+    },
+    {
+     "t": 50,
+     "event": "q44",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Indianapolis",
+       "at": "Nov 11 14:52"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 13",
+       "confirmed": true
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH",
+      "reroute": {
+       "to": "UPS Access Point #118"
+      }
+     },
+     "reasoning": "No new scan was reported for this parcel, and the background telemetry concerns other parcels or hub operations. No state changes are needed; the action is WAIT."
+    },
+    {
+     "t": 51,
+     "event": "e7",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Indianapolis",
+       "at": "Nov 11 14:52"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 14",
+       "confirmed": true
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "The UPS correction replaces the confirmed ETA with Nov 14 and cancels the Access Point reroute. This is not a dispatch request, so the action is WAIT; unrelated telemetry is ignored."
+    },
+    {
+     "t": 52,
+     "event": "q45",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Indianapolis",
+       "at": "Nov 11 14:52"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 14",
+       "confirmed": true
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "No new scan was reported for this parcel, and the background telemetry is not a parcel event. No state changes are needed, so the action is WAIT."
+    },
+    {
+     "t": 53,
+     "event": "q46",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Indianapolis",
+       "at": "Nov 11 14:52"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 14",
+       "confirmed": true
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "No new scan was reported for this parcel. No state changes are needed, and the action is WAIT."
+    },
+    {
+     "t": 54,
+     "event": "q47",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Indianapolis",
+       "at": "Nov 11 14:52"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 14",
+       "confirmed": true
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "No new scan was reported for this parcel, and the other telemetry is irrelevant. No state changes are needed; the action is WAIT."
+    },
+    {
+     "t": 55,
+     "event": "q48",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Indianapolis",
+       "at": "Nov 11 14:52"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 14",
+       "confirmed": true
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "No new scan was reported for this parcel, so the shipment state is unchanged. The observation is not a dispatch request, so the action is WAIT."
+    },
+    {
+     "t": 56,
+     "event": "q49",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Indianapolis",
+       "at": "Nov 11 14:52"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 14",
+       "confirmed": true
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "No new scan was reported for this parcel, so the shipment state remains unchanged. The latest observation is not a dispatch request, so the action is WAIT."
+    },
+    {
+     "t": 57,
+     "event": "q50",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Indianapolis",
+       "at": "Nov 11 14:52"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 14",
+       "confirmed": true
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "No new scan was reported for this parcel, and the background telemetry is not relevant to it. No state changes are needed; the action is WAIT."
+    },
+    {
+     "t": 58,
+     "event": "q51",
+     "action": "WAIT",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": false,
+      "location": {
+       "hub": "Indianapolis",
+       "at": "Nov 11 14:52"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 14",
+       "confirmed": true
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "No new scan was reported for this parcel, so no shipment state changes. The latest observation is not a dispatch request; action is WAIT."
+    },
+    {
+     "t": 59,
+     "event": "e8",
+     "action": "SEND",
+     "attempts": 1,
+     "fell_back": false,
+     "state": {
+      "tracking_id": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "notice_due": true,
+      "location": {
+       "hub": "Indianapolis",
+       "at": "Nov 11 14:52"
+      },
+      "status": "departed",
+      "exception": "EXC-204",
+      "cause": "missed linehaul connection",
+      "eta": {
+       "date": "Nov 14",
+       "confirmed": true
+      },
+      "address": "1420 Maple St, Apt 4B, Columbus OH"
+     },
+     "reasoning": "The latest observation is a dispatch request, so the action is SEND. Set `notice_due` to true; no other shipment state changes."
+    }
+   ],
+   "final_state": {
+    "tracking_id": "1Z999AA10123456784",
+    "carrier": "UPS",
+    "notice_due": true,
+    "location": {
+     "hub": "Indianapolis",
+     "at": "Nov 11 14:52"
+    },
+    "status": "departed",
+    "exception": "EXC-204",
+    "cause": "missed linehaul connection",
+    "eta": {
+     "date": "Nov 14",
+     "confirmed": true
+    },
+    "address": "1420 Maple St, Apt 4B, Columbus OH"
+   },
+   "rejected_patches": 0,
+   "rejections": [],
+   "prompt_chars": [
+    2434,
+    2466,
+    2484,
+    2461,
+    2468,
+    2443,
+    2454,
+    2470,
+    2458,
+    2494,
+    2483,
+    2490,
+    2495,
+    2508,
+    2526,
+    2503,
+    2510,
+    2485,
+    2551,
+    2559,
+    2547,
+    2559,
+    2530,
+    2537,
+    2542,
+    2555,
+    2573,
+    2561,
+    2554,
+    2529,
+    2540,
+    2556,
+    2544,
+    2556,
+    2527,
+    2615,
+    2544,
+    2557,
+    2575,
+    2552,
+    2559,
+    2534,
+    2545,
+    2645,
+    2589,
+    2601,
+    2572,
+    2579,
+    2584,
+    2597,
+    2615,
+    2697,
+    2558,
+    2533,
+    2544,
+    2560,
+    2548,
+    2560,
+    2531,
+    2557
+   ],
+   "usage": {
+    "calls": 60,
+    "prompt_tokens": 37980,
+    "completion_tokens": 6392,
+    "cost_usd": 0.006994000000000001
+   },
+   "surface_digest": "115e0df4f10d",
+   "wrote_at": [
+    "e8"
+   ],
+   "writer_input_tokens": 83,
+   "facts": 5,
+   "traps": 0
+  }
+ }
+}
